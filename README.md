@@ -1,33 +1,21 @@
-# Project
+# GitHub Copilot Impact
+Compelling analytics on how developers build habits with GitHub Copilot—what features they use most, how engagement evolves over time, and the key drivers behind adoption and impact. Designed to help teams and leaders understand usage patterns and communicate business value effectively.
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+## What You’ll Get from This Project
 
-As the maintainer of this project, please make a few updates:
+- **Track Copilot Adoption Trends:**  
+  Visualize weekly active users, interaction rates, and retention metrics to understand how Copilot usage evolves across your organization.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+- **Segment User Engagement:**  
+  Identify growing and shrinking user segments, analyze power users, and uncover engagement patterns to inform targeted enablement strategies.
 
-## Contributing
+- **Measure Coding Impact:**  
+  Monitor code activity and acceptance rates over time and by segment, revealing how Copilot influences developer productivity and adoption.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
+- **Discover Feature Usage Drivers:**  
+  Pinpoint which Copilot features (e.g., chat, panel, agent mode) drive the most interactions, helping teams focus on what matters most.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+- **Analyze Language & Model Preferences:**  
+  See which programming languages and AI models are most popular and have the highest code acceptance, enabling data-driven decisions on tooling and support.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+  ![Report Preview](./Assets/githubreportimages.gif)
