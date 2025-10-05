@@ -1,21 +1,53 @@
-# GitHub Copilot Impact
-Compelling analytics on how developers build habits with GitHub Copilot—what features they use most, how engagement evolves over time, and the key drivers behind adoption and impact. Designed to help teams and leaders understand usage patterns and communicate business value effectively.
+# 🚀 GitHub Copilot Impact
+Analytics to show how developers build habits with GitHub Copilot—what features they use, how engagement changes, and what drives adoption. Helps teams and leaders understand usage and show business value.
 
-## What You’ll Get from This Project
+<details open>
+<summary><strong>✨ What You’ll Get</strong></summary>
 
-- **Track Copilot Adoption Trends:**  
-  Visualize weekly active users, interaction rates, and retention metrics to understand how Copilot usage evolves across your organization.
+- **Track Adoption:**  
+  See weekly active users, interaction rates, and retention trends.
 
-- **Segment User Engagement:**  
-  Identify growing and shrinking user segments, analyze power users, and uncover engagement patterns to inform targeted enablement strategies.
+- **Segment Engagement:**  
+  Spot growing/shrinking segments and power users.
 
-- **Measure Coding Impact:**  
-  Monitor code activity and acceptance rates over time and by segment, revealing how Copilot influences developer productivity and adoption.
+- **Measure Impact:**  
+  View code activity and acceptance rates by time and segment.
 
-- **Discover Feature Usage Drivers:**  
-  Pinpoint which Copilot features (e.g., chat, panel, agent mode) drive the most interactions, helping teams focus on what matters most.
+- **Feature Insights:**  
+  Learn which features (chat, panel, agent mode) drive usage.
 
-- **Analyze Language & Model Preferences:**  
-  See which programming languages and AI models are most popular and have the highest code acceptance, enabling data-driven decisions on tooling and support.
+- **Language & Model Trends:**  
+  Find top languages and models with highest acceptance.
 
-  ![Report Preview](./assets/githubreportimages.gif)
+</details>
+
+<details open>
+<summary><strong>🖼 Preview</strong></summary>
+
+![Report Preview](./assets/githubreportimages.gif)
+
+</details>
+
+<details>
+<summary><strong>✅ Requirements</strong></summary>
+
+- Power BI Desktop installed  
+- GitHub admin access  
+- GitHub Copilot usage data available  
+
+</details>
+
+<details>
+<summary><strong>📥 Get Started</strong></summary>
+
+### 1. Download the Usage File
+- Login as admin  
+- Navigate to `<placeholder>` and download `<file>`  
+- Save it as a **.json** file  
+
+### 2. Connect to Power BI Template
+- Download **GitHub Copilot Usage Analytics.pbit**  
+- Open the file and set the filepath to your **.json** file (remove quotes)  
+- You’re ready to go! 🎉  
+
+</details>
