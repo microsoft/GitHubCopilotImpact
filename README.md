@@ -18,4 +18,4 @@ Compelling analytics on how developers build habits with GitHub Copilot—what f
 - **Analyze Language & Model Preferences:**  
   See which programming languages and AI models are most popular and have the highest code acceptance, enabling data-driven decisions on tooling and support.
 
-  ![Report Preview](./Assets/githubreportimages.gif)
+  ![Report Preview](./assets/githubreportimages.gif)
