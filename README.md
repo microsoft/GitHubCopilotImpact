@@ -43,7 +43,7 @@ Analytics to show how developers build habits with GitHub Copilot—what feature
 ### 1. Download the Usage File
 - Login as admin  
 - Navigate to https://github.com/enterprises/<your-company>
-- On the top ribbon, navigate to the far right to breadcrumbs (...) and access Insights
+- On the top ribbon, navigate far right to breadcrumbs (...) and access Insights
 - Select Copilot Usage (private preview)
 - Select Last 28 days option and click download
 - Save it as a **.json** file  
