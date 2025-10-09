@@ -33,7 +33,7 @@ Analytics to show how developers build habits with GitHub Copilot—what feature
 
 - Power BI Desktop installed  
 - GitHub admin access  
-- GitHub Copilot usage data available  
+- Access to GitHub Copilot Usage Insights Private Preview   
 
 </details>
 
@@ -42,7 +42,10 @@ Analytics to show how developers build habits with GitHub Copilot—what feature
 
 ### 1. Download the Usage File
 - Login as admin  
-- Navigate to `<placeholder>` and download `<file>`  
+- Navigate to https://github.com/enterprises/<your-company>
+- On the top ribbon, navigate far right to breadcrumbs (...) and access Insights
+- Select Copilot Usage (private preview)
+- Select Last 28 days option and click download
 - Save it as a **.json** file  
 
 ### 2. Connect to Power BI Template
