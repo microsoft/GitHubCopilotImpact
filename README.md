@@ -34,6 +34,7 @@ Analytics to show how developers build habits with GitHub Copilot—what feature
 - Power BI Desktop installed  
 - GitHub admin access
 - Enforced single sign on to enable connection between enterprise id and github handles
+- Opt-in to the Copilot usage metrics policy under "AI Controls"
 
 </details>
 
