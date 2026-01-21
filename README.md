@@ -24,7 +24,7 @@ Analytics to show how developers build habits with GitHub Copilot—what feature
 <details open>
 <summary><strong>🖼 Preview</strong></summary>
 
-![Report Preview](./assets/githubreportimages.gif)
+![Report Preview](./assets/ghcpgif.gif)
 
 </details>
 
