@@ -1,30 +1,40 @@
 # 🚀 GitHub Copilot Impact
-Analytics to show how developers build habits with GitHub Copilot—what features they use, how engagement changes, and what drives adoption. Helps teams and leaders understand usage and show business value.
+Analytics to show how developers build habits with GitHub Copilot—what features they use, how engagement changes, and what drives adoption. Helps teams and leaders understand usage and show business value. Use organizational data to zoom in teams that are pulling ahead with agentic coding vs. the rest. Learn the patterns from these early leaders and drive adoption across the board.
 
 <details open>
 <summary><strong>✨ What You’ll Get</strong></summary>
 
-- **Track Adoption:**  
-  See weekly active users, interaction rates, and retention trends.
-
-- **Segment Engagement:**  
-  Spot growing/shrinking segments and power users.
+- **Track Adoption and Engagment:**  
+  See weekly active users, interactions, split by chat vs. agent mode - split by teams.
+  Glean intensity and frequency of interaction with GitHub Copilot by teams
 
 - **Measure Impact:**  
-  View code activity and acceptance rates by time and segment.
+  View code activity, acceptance rates, lines of code suggested and added over time, segmented by teams.
+
+- **Language Insights:**  
+  Learn how acceptance rate, code gen activity, code accept activity varies by language.
+  Split the views by teams to see if certain teams are finding greater success than others. 
 
 - **Feature Insights:**  
-  Learn which features (chat, panel, agent mode) drive usage.
+ Learn how accceptance, code gen, code accept activity vary by features like code completion, agent mode, inline edits etc.
+ Useful in answering questions like 'Do Principal Engineers have a higher acceptance rate? Do they have a greater adoption of agent mode?'
 
-- **Language & Model Trends:**  
-  Find top languages and models with highest acceptance.
+ - **Feature Insights:**  
+ Learn how accceptance, code gen, code accept activity vary by features like code completion, agent mode, inline edits etc.
+ Useful in answering questions like 'Do Principal Engineers have a higher acceptance rate? Do they have a greater adoption of agent mode?'
+
+  - **Model Insights:**  
+Glean which models are contributing to the code base, and which models are acquiring new users.
+
+  - **Goal Tracking:**  
+Set adoption targets by teams and identify hotspots and bright-spots.
 
 </details>
 
 <details open>
 <summary><strong>🖼 Preview</strong></summary>
 
-![Report Preview](./assets/githubreportimages.gif)
+![Report Preview](./assets/ghcpgif.gif)
 
 </details>
 
