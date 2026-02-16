@@ -142,3 +142,13 @@ Set adoption targets by teams and identify hotspots and bright-spots.
 
 
 </details>
+
+---
+
+## 🤓 Nerd Corner (for Claude Code users)
+If you're into automation and allergic to manual decks — try this:
+
+👉 https://github.com/shailendrahegde/pbi-to-exec-deck
+
+It turns raw outputs into exec-ready PPTs with insights pre-baked.
+All you do: verify, tweak, ship.
