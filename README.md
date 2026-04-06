@@ -145,10 +145,9 @@ Set adoption targets by teams and identify hotspots and bright-spots.
 
 ---
 
-## 🤓 Nerd Corner (for Claude Code users)
-If you're into automation and allergic to manual decks — try this:
+## 🤓 Nerd Corner
+If want a window into how GitHub Copilot helped you personally, the value it added, the skills it augmented, how it helped speed up your work
 
-👉 https://github.com/shailendrahegde/pbi-to-exec-deck
+👉 https://github.com/microsoft/What-I-Did-Copilot
 
-It turns raw outputs into exec-ready PPTs with insights pre-baked.
-All you do: verify, tweak, ship.
+
