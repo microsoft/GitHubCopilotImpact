@@ -146,7 +146,7 @@ Set adoption targets by teams and identify hotspots and bright-spots.
 ---
 
 ## 🤓 Nerd Corner
-If want a window into how GitHub Copilot helped you personally, the value it added, the skills it augmented, how it helped speed up your work
+If you want a window into how GitHub Copilot helped you personally, the value it added, the skills it augmented, how it helped speed up your work
 
 👉 https://github.com/microsoft/What-I-Did-Copilot
 
