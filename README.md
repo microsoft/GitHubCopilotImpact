@@ -107,6 +107,22 @@ Set adoption targets by teams and identify hotspots and bright-spots.
   
 </details>
 
+<details open>
+<summary>🧪 Prefer to try it first? Use the sample files</summary>
+
+Not ready to export your own data yet? You can test-drive the template before launching it against your organization's data.
+
+- Download the [`GHCP Sample Files`](./GHCP%20Sample%20Files) folder in this repo. It contains ready-to-use example exports:
+  - `membership_export - Copy.csv` — sample GitHub Members export
+  - `OrgData file.csv` — sample Microsoft Entra user/org export
+  - `test output.json` — sample GitHub Copilot Usage Insights export
+- Open the `.pbit` template in Power BI Desktop and, when prompted, point each file path at the matching sample file.
+- This lets you explore every report page, visual, and interaction with realistic data so you know exactly what to expect before wiring up your own exports.
+
+> 💡 The sample files are for demonstration only — replace them with your own exports (see the detailed steps below) to see insights for your organization.
+
+</details>
+
 
 
 ## 📁 Detailed Steps
