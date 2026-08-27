@@ -19,7 +19,7 @@
 
 <br>
 
-**[Preview ↓](#preview)** &nbsp;·&nbsp; **[Instructions ↓](#instructions)** &nbsp;·&nbsp; **[Requirements ↓](#requirements)** &nbsp;·&nbsp; **[Email your Admin ↓](#email-your-admin)**
+**[Preview ↓](#preview)** &nbsp;·&nbsp; **[Watch First ↓](#-watch-first)** &nbsp;·&nbsp; **[Instructions ↓](#instructions)** &nbsp;·&nbsp; **[Requirements ↓](#requirements)** &nbsp;·&nbsp; **[Email your Admin ↓](#email-your-admin)**
 
 <br>
 
@@ -70,6 +70,16 @@ Set adoption targets by teams and identify hotspots and bright-spots.
 ![Report Preview](./assets/ghcpgif.gif)
 
 </details>
+
+<a id="-watch-first"></a>
+
+## 🎬 Watch First
+
+Plays here in the page — no download.
+
+**A guided tour of the report** — how developers build habits with GitHub Copilot, and the impact on real work. *(1m 48s)*
+
+https://github.com/user-attachments/assets/bebbd61a-4edc-4ee9-8241-c88bc5128a4a
 
 <a id="requirements"></a>
 
