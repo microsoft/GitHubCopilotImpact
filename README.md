@@ -75,11 +75,11 @@ Set adoption targets by teams and identify hotspots and bright-spots.
 
 ## 🎬 Watch First
 
-Plays here in the page — no download.
-
 **A guided tour of the report** — how developers build habits with GitHub Copilot, and the impact on real work. *(1m 48s)*
 
-https://github.com/user-attachments/assets/bebbd61a-4edc-4ee9-8241-c88bc5128a4a
+[![Watch the overview on YouTube](https://img.youtube.com/vi/Rxj6QBTeP10/maxresdefault.jpg)](https://youtu.be/Rxj6QBTeP10)
+
+**▶ [Watch on YouTube](https://youtu.be/Rxj6QBTeP10)**
 
 <a id="requirements"></a>
 
